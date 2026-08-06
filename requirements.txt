@@ -1,0 +1,9 @@
+streamlit>=1.40
+pandas>=2.2
+openpyxl>=3.1
+PyYAML>=6.0
+openai>=1.50
+pytest>=8.0
+imageio-ffmpeg>=0.5
+tiktoken>=0.7
+matplotlib>=3.8

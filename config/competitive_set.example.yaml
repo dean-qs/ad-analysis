@@ -1,0 +1,59 @@
+# Competitive set definition.
+#
+# `seeds` is the important field and the one most people get wrong.
+# Company-name search alone under-resolves badly in pharma, because
+# product brands advertise as separate entities and unbranded disease
+# sites never mention the parent company. Empirically, searching
+# "Pfizer" on Meta returned zero Pfizer-owned pages.
+#
+# Seed with: company name, product brand names, and owned domains.
+
+region: US
+date_from: 2025-08-06
+date_to: 2026-08-06
+
+brands:
+  - name: Genentech
+    seeds:
+      names: [Genentech, "Genentech USA", Genentech Jobs]
+      products: [Hemlibra, Vabysmo, Ocrevus, Tecentriq, Phesgo, Evrysdi]
+      domains: [gene.com, knowmogad.com, hemlibra.com, vabysmo.com]
+
+  - name: Pfizer
+    seeds:
+      names: [Pfizer, "Pfizer Inc"]
+      products: [Comirnaty, Paxlovid, Prevnar, Abrysvo, Nurtec, Litfulo]
+      domains: [pfizer.com, paxlovid.com, nurtec.com]
+
+  - name: Merck
+    seeds:
+      names: [Merck, "Merck & Co", "Merck Clinical Trials"]
+      products: [Keytruda, Gardasil, Januvia, Winrevair, Capvaxive]
+      domains: [merck.com, keytruda.com]
+
+  - name: AstraZeneca
+    seeds:
+      names: [AstraZeneca, "AstraZeneca US", "AstraZeneca Pharmaceuticals"]
+      products: [Farxiga, Tagrisso, Imfinzi, Fasenra, Airsupra]
+      domains: [astrazeneca-us.com, farxiga.com]
+
+  - name: Novartis
+    seeds:
+      names: [Novartis, "Novartis Pharmaceuticals Corporation"]
+      products: [Entresto, Cosentyx, Kisqali, Leqvio, Pluvicto]
+      domains: [novartis.com, cosentyx.com, kisqali.com]
+
+  - name: Regeneron
+    seeds:
+      names: [Regeneron, "Regeneron Pharmaceuticals", "Regeneron Medical"]
+      products: [Dupixent, Eylea, Libtayo]
+      domains: [regeneron.com, dupixent.com, eylea.us]
+
+# Cost guards. The pipeline refuses to exceed these without --force.
+limits:
+  max_ads_per_brand_per_platform: 400
+  max_transcriptions: 600
+  # Only transcribe creatives that ran at least this long. Doubles as a
+  # relevance filter: a creative the brand kept running is a better read
+  # on intended messaging than one pulled after three days.
+  transcribe_min_served_days: 14

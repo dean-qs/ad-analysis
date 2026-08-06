@@ -1,0 +1,815 @@
+[
+ {
+  "id": "CR06074558966141026305",
+  "advertiserId": "AR04097710039484071937",
+  "creativeId": "CR06074558966141026305",
+  "advertiserName": "Genentech USA, Inc.",
+  "format": "TEXT",
+  "url": "https://adstransparency.google.com/advertiser/AR04097710039484071937/creative/CR06074558966141026305?region=US",
+  "previewUrl": "https://tpc.googlesyndication.com/archive/simgad/9309173125327694076",
+  "previewStoreKey": null,
+  "firstShownAt": "1784012400",
+  "lastShownAt": "1785971654",
+  "impressions": null,
+  "shownCountries": [
+   "United States"
+  ],
+  "countryStats": [
+   {
+    "code": "US",
+    "name": "United States",
+    "firstShownAt": "2025-09-19T00:00:00.000Z",
+    "lastShownAt": "2026-08-05T00:00:00.000Z",
+    "impressions": {
+     "lowerBound": null,
+     "upperBound": null
+    },
+    "platformStats": []
+   }
+  ],
+  "audienceSelections": [],
+  "variants": [
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/9309173125327694076"
+    ]
+   },
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/9309173125327694076"
+    ]
+   },
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/9309173125327694076"
+    ]
+   }
+  ],
+  "originUrl": "https://adstransparency.google.com/advertiser/AR04097710039484071937?region=US"
+ },
+ {
+  "id": "CR10465483940431921153",
+  "advertiserId": "AR04097710039484071937",
+  "creativeId": "CR10465483940431921153",
+  "advertiserName": "Genentech USA, Inc.",
+  "format": "TEXT",
+  "url": "https://adstransparency.google.com/advertiser/AR04097710039484071937/creative/CR10465483940431921153?region=US",
+  "previewUrl": "https://tpc.googlesyndication.com/archive/simgad/3116134658774642176",
+  "previewStoreKey": null,
+  "firstShownAt": "1784012400",
+  "lastShownAt": "1785974102",
+  "impressions": null,
+  "shownCountries": [
+   "United States"
+  ],
+  "countryStats": [
+   {
+    "code": "US",
+    "name": "United States",
+    "firstShownAt": "2025-09-19T00:00:00.000Z",
+    "lastShownAt": "2026-08-05T00:00:00.000Z",
+    "impressions": {
+     "lowerBound": null,
+     "upperBound": null
+    },
+    "platformStats": []
+   }
+  ],
+  "audienceSelections": [],
+  "variants": [
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/3116134658774642176"
+    ]
+   },
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/3116134658774642176"
+    ]
+   },
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/3116134658774642176"
+    ]
+   }
+  ],
+  "originUrl": "https://adstransparency.google.com/advertiser/AR04097710039484071937?region=US"
+ },
+ {
+  "id": "CR08303004053340684289",
+  "advertiserId": "AR04097710039484071937",
+  "creativeId": "CR08303004053340684289",
+  "advertiserName": "Genentech USA, Inc.",
+  "format": "TEXT",
+  "url": "https://adstransparency.google.com/advertiser/AR04097710039484071937/creative/CR08303004053340684289?region=US",
+  "previewUrl": "https://tpc.googlesyndication.com/archive/simgad/15901616841300773189",
+  "previewStoreKey": null,
+  "firstShownAt": "1784012400",
+  "lastShownAt": "1785962052",
+  "impressions": null,
+  "shownCountries": [
+   "United States"
+  ],
+  "countryStats": [
+   {
+    "code": "US",
+    "name": "United States",
+    "firstShownAt": "2025-09-19T00:00:00.000Z",
+    "lastShownAt": "2026-08-05T00:00:00.000Z",
+    "impressions": {
+     "lowerBound": null,
+     "upperBound": null
+    },
+    "platformStats": []
+   }
+  ],
+  "audienceSelections": [],
+  "variants": [
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/15901616841300773189"
+    ]
+   }
+  ],
+  "originUrl": "https://adstransparency.google.com/advertiser/AR04097710039484071937?region=US"
+ },
+ {
+  "id": "CR17619207856928587777",
+  "advertiserId": "AR04097710039484071937",
+  "creativeId": "CR17619207856928587777",
+  "advertiserName": "Genentech USA, Inc.",
+  "format": "TEXT",
+  "url": "https://adstransparency.google.com/advertiser/AR04097710039484071937/creative/CR17619207856928587777?region=US",
+  "previewUrl": "https://tpc.googlesyndication.com/archive/simgad/3334903068097753274",
+  "previewStoreKey": null,
+  "firstShownAt": "1784012400",
+  "lastShownAt": "1785961555",
+  "impressions": null,
+  "shownCountries": [
+   "United States"
+  ],
+  "countryStats": [
+   {
+    "code": "US",
+    "name": "United States",
+    "firstShownAt": "2025-09-19T00:00:00.000Z",
+    "lastShownAt": "2026-08-05T00:00:00.000Z",
+    "impressions": {
+     "lowerBound": null,
+     "upperBound": null
+    },
+    "platformStats": []
+   }
+  ],
+  "audienceSelections": [],
+  "variants": [
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/3334903068097753274"
+    ]
+   },
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/3334903068097753274"
+    ]
+   },
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/3334903068097753274"
+    ]
+   }
+  ],
+  "originUrl": "https://adstransparency.google.com/advertiser/AR04097710039484071937?region=US"
+ },
+ {
+  "id": "CR02159956860092809217",
+  "advertiserId": "AR04097710039484071937",
+  "creativeId": "CR02159956860092809217",
+  "advertiserName": "Genentech USA, Inc.",
+  "format": "TEXT",
+  "url": "https://adstransparency.google.com/advertiser/AR04097710039484071937/creative/CR02159956860092809217?region=US",
+  "previewUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACF0lEQVRYhe2Vz2vUQBTHP5ZW6XopYiMVlNoiUig4XorgtWBPkkXYgwVPLniWYBlSUME4l72KHjwoFMRAyaJ/g4gn51AUPFTsQWgUwYOKoNVDk2w2O9lf3aDgfi9J3nvzfZ8kLxMYaqi9SKgFhFrYi8W+PhtfBe5lolW0fFA8gFCXgUc52Uto+bgXu5GeAeBhm1we2IAAhLJo/9TGEGqiOAD4OqCaRMa7CSxvHpDAD2C1HLofkqRQW8CxHL9NtJyNLxzfPgrcBg4Aqlapb3QECCxPAK8y4cly6H6KAOaA1zkAp9DybdT8MPAxkz9Tq9R1OmB6BTcNsZXkTMs3wCzwMpV/AUzHzVvWtPEeNRT9MsR2mq603ATOGury1+R4m56Aa4jdMbYQqoRQ4zkApjUt3nlDeILGEN4oh+7nVNPrwBXgZGbZBnAfLe/GAce3DwG3aAzhu64AjBLqNKA71sF3YA4t33dj2x2AUNNAC30HTaDll05FTUMYWJ7F7nd7AXheDt2LUepZj80BngBLAI5vrwPngKfAaq1SD+OiZAgDy1sGtoEqcCSBE2o/MN8HwPnU+WjkWQW2Hd9ebgIILG8GWMsY/I6Ox/toviuhDma8Yq05vj2TAGDeNAahbOO0VtIAUwUBtNNUGsC0axWtnTTAX9M/A1Ay5EqZmkL8443oGjBJYxZGaPzLt4BF4GePzceAb134D/Wf6w9bV34neKwF9wAAAABJRU5ErkJggg==",
+  "previewStoreKey": null,
+  "firstShownAt": "1781549815",
+  "lastShownAt": "1785962356",
+  "impressions": null,
+  "shownCountries": [
+   "United States"
+  ],
+  "countryStats": [
+   {
+    "code": "US",
+    "name": "United States",
+    "firstShownAt": "2025-09-19T00:00:00.000Z",
+    "lastShownAt": "2026-08-05T00:00:00.000Z",
+    "impressions": {
+     "lowerBound": null,
+     "upperBound": null
+    },
+    "platformStats": []
+   }
+  ],
+  "audienceSelections": [],
+  "variants": [
+   {
+    "textContent": "null - null - null",
+    "images": [
+     "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACF0lEQVRYhe2Vz2vUQBTHP5ZW6XopYiMVlNoiUig4XorgtWBPkkXYgwVPLniWYBlSUME4l72KHjwoFMRAyaJ/g4gn51AUPFTsQWgUwYOKoNVDk2w2O9lf3aDgfi9J3nvzfZ8kLxMYaqi9SKgFhFrYi8W+PhtfBe5lolW0fFA8gFCXgUc52Uto+bgXu5GeAeBhm1we2IAAhLJo/9TGEGqiOAD4OqCaRMa7CSxvHpDAD2C1HLofkqRQW8CxHL9NtJyNLxzfPgrcBg4Aqlapb3QECCxPAK8y4cly6H6KAOaA1zkAp9DybdT8MPAxkz9Tq9R1OmB6BTcNsZXkTMs3wCzwMpV/AUzHzVvWtPEeNRT9MsR2mq603ATOGury1+R4m56Aa4jdMbYQqoRQ4zkApjUt3nlDeILGEN4oh+7nVNPrwBXgZGbZBnAfLe/GAce3DwG3aAzhu64AjBLqNKA71sF3YA4t33dj2x2AUNNAC30HTaDll05FTUMYWJ7F7nd7AXheDt2LUepZj80BngBLAI5vrwPngKfAaq1SD+OiZAgDy1sGtoEqcCSBE2o/MN8HwPnU+WjkWQW2Hd9ebgIILG8GWMsY/I6Ox/toviuhDma8Yq05vj2TAGDeNAahbOO0VtIAUwUBtNNUGsC0axWtnTTAX9M/A1Ay5EqZmkL8443oGjBJYxZGaPzLt4BF4GePzceAb134D/Wf6w9bV34neKwF9wAAAABJRU5ErkJggg==",
+     "https://tpc.googlesyndication.com/simgad/4904908766160286319"
+    ]
+   },
+   {
+    "textContent": "null - null - null",
+    "images": [
+     "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACF0lEQVRYhe2Vz2vUQBTHP5ZW6XopYiMVlNoiUig4XorgtWBPkkXYgwVPLniWYBlSUME4l72KHjwoFMRAyaJ/g4gn51AUPFTsQWgUwYOKoNVDk2w2O9lf3aDgfi9J3nvzfZ8kLxMYaqi9SKgFhFrYi8W+PhtfBe5lolW0fFA8gFCXgUc52Uto+bgXu5GeAeBhm1we2IAAhLJo/9TGEGqiOAD4OqCaRMa7CSxvHpDAD2C1HLofkqRQW8CxHL9NtJyNLxzfPgrcBg4Aqlapb3QECCxPAK8y4cly6H6KAOaA1zkAp9DybdT8MPAxkz9Tq9R1OmB6BTcNsZXkTMs3wCzwMpV/AUzHzVvWtPEeNRT9MsR2mq603ATOGury1+R4m56Aa4jdMbYQqoRQ4zkApjUt3nlDeILGEN4oh+7nVNPrwBXgZGbZBnAfLe/GAce3DwG3aAzhu64AjBLqNKA71sF3YA4t33dj2x2AUNNAC30HTaDll05FTUMYWJ7F7nd7AXheDt2LUepZj80BngBLAI5vrwPngKfAaq1SD+OiZAgDy1sGtoEqcCSBE2o/MN8HwPnU+WjkWQW2Hd9ebgIILG8GWMsY/I6Ox/toviuhDma8Yq05vj2TAGDeNAahbOO0VtIAUwUBtNNUGsC0axWtnTTAX9M/A1Ay5EqZmkL8443oGjBJYxZGaPzLt4BF4GePzceAb134D/Wf6w9bV34neKwF9wAAAABJRU5ErkJggg==",
+     "https://tpc.googlesyndication.com/simgad/4904908766160286319"
+    ]
+   }
+  ],
+  "originUrl": "https://adstransparency.google.com/advertiser/AR04097710039484071937?region=US"
+ },
+ {
+  "id": "CR14934245541876334593",
+  "advertiserId": "AR04097710039484071937",
+  "creativeId": "CR14934245541876334593",
+  "advertiserName": "Genentech USA, Inc.",
+  "format": "TEXT",
+  "url": "https://adstransparency.google.com/advertiser/AR04097710039484071937/creative/CR14934245541876334593?region=US",
+  "previewUrl": "https://tpc.googlesyndication.com/archive/simgad/17301466771239357037",
+  "previewStoreKey": null,
+  "firstShownAt": "1784012400",
+  "lastShownAt": "1785961600",
+  "impressions": null,
+  "shownCountries": [
+   "United States"
+  ],
+  "countryStats": [
+   {
+    "code": "US",
+    "name": "United States",
+    "firstShownAt": "2025-09-19T00:00:00.000Z",
+    "lastShownAt": "2026-08-05T00:00:00.000Z",
+    "impressions": {
+     "lowerBound": null,
+     "upperBound": null
+    },
+    "platformStats": []
+   }
+  ],
+  "audienceSelections": [],
+  "variants": [
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/17301466771239357037"
+    ]
+   }
+  ],
+  "originUrl": "https://adstransparency.google.com/advertiser/AR04097710039484071937?region=US"
+ },
+ {
+  "id": "CR08178314074631700481",
+  "advertiserId": "AR04097710039484071937",
+  "creativeId": "CR08178314074631700481",
+  "advertiserName": "Genentech USA, Inc.",
+  "format": "TEXT",
+  "url": "https://adstransparency.google.com/advertiser/AR04097710039484071937/creative/CR08178314074631700481?region=US",
+  "previewUrl": "https://tpc.googlesyndication.com/archive/simgad/1373037501180805222",
+  "previewStoreKey": null,
+  "firstShownAt": "1781550028",
+  "lastShownAt": "1785953789",
+  "impressions": null,
+  "shownCountries": [
+   "United States"
+  ],
+  "countryStats": [
+   {
+    "code": "US",
+    "name": "United States",
+    "firstShownAt": "2025-09-19T00:00:00.000Z",
+    "lastShownAt": "2026-08-05T00:00:00.000Z",
+    "impressions": {
+     "lowerBound": null,
+     "upperBound": null
+    },
+    "platformStats": []
+   }
+  ],
+  "audienceSelections": [],
+  "variants": [
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/1373037501180805222"
+    ]
+   },
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/1373037501180805222"
+    ]
+   }
+  ],
+  "originUrl": "https://adstransparency.google.com/advertiser/AR04097710039484071937?region=US"
+ },
+ {
+  "id": "CR01786524090954153985",
+  "advertiserId": "AR04097710039484071937",
+  "creativeId": "CR01786524090954153985",
+  "advertiserName": "Genentech USA, Inc.",
+  "format": "TEXT",
+  "url": "https://adstransparency.google.com/advertiser/AR04097710039484071937/creative/CR01786524090954153985?region=US",
+  "previewUrl": "https://tpc.googlesyndication.com/archive/simgad/2246447799488562877",
+  "previewStoreKey": null,
+  "firstShownAt": "1784012400",
+  "lastShownAt": "1785994778",
+  "impressions": null,
+  "shownCountries": [
+   "United States"
+  ],
+  "countryStats": [
+   {
+    "code": "US",
+    "name": "United States",
+    "firstShownAt": "2025-09-19T00:00:00.000Z",
+    "lastShownAt": "2026-08-05T00:00:00.000Z",
+    "impressions": {
+     "lowerBound": null,
+     "upperBound": null
+    },
+    "platformStats": []
+   }
+  ],
+  "audienceSelections": [],
+  "variants": [
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/2246447799488562877"
+    ]
+   },
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/2246447799488562877"
+    ]
+   }
+  ],
+  "originUrl": "https://adstransparency.google.com/advertiser/AR04097710039484071937?region=US"
+ },
+ {
+  "id": "CR05881278703312306177",
+  "advertiserId": "AR04097710039484071937",
+  "creativeId": "CR05881278703312306177",
+  "advertiserName": "Genentech USA, Inc.",
+  "format": "TEXT",
+  "url": "https://adstransparency.google.com/advertiser/AR04097710039484071937/creative/CR05881278703312306177?region=US",
+  "previewUrl": "https://tpc.googlesyndication.com/archive/simgad/8148954545224339900",
+  "previewStoreKey": null,
+  "firstShownAt": "1784012400",
+  "lastShownAt": "1785968396",
+  "impressions": null,
+  "shownCountries": [
+   "United States"
+  ],
+  "countryStats": [
+   {
+    "code": "US",
+    "name": "United States",
+    "firstShownAt": "2025-09-19T00:00:00.000Z",
+    "lastShownAt": "2026-08-05T00:00:00.000Z",
+    "impressions": {
+     "lowerBound": null,
+     "upperBound": null
+    },
+    "platformStats": []
+   }
+  ],
+  "audienceSelections": [],
+  "variants": [
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/8148954545224339900"
+    ]
+   }
+  ],
+  "originUrl": "https://adstransparency.google.com/advertiser/AR04097710039484071937?region=US"
+ },
+ {
+  "id": "CR04339218455719837697",
+  "advertiserId": "AR04097710039484071937",
+  "creativeId": "CR04339218455719837697",
+  "advertiserName": "Genentech USA, Inc.",
+  "format": "TEXT",
+  "url": "https://adstransparency.google.com/advertiser/AR04097710039484071937/creative/CR04339218455719837697?region=US",
+  "previewUrl": "https://tpc.googlesyndication.com/archive/simgad/1619123162699036138",
+  "previewStoreKey": null,
+  "firstShownAt": "1784012400",
+  "lastShownAt": "1785969000",
+  "impressions": null,
+  "shownCountries": [
+   "United States"
+  ],
+  "countryStats": [
+   {
+    "code": "US",
+    "name": "United States",
+    "firstShownAt": "2025-09-19T00:00:00.000Z",
+    "lastShownAt": "2026-08-05T00:00:00.000Z",
+    "impressions": {
+     "lowerBound": null,
+     "upperBound": null
+    },
+    "platformStats": []
+   }
+  ],
+  "audienceSelections": [],
+  "variants": [
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/1619123162699036138"
+    ]
+   },
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/1619123162699036138"
+    ]
+   },
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/1619123162699036138"
+    ]
+   }
+  ],
+  "originUrl": "https://adstransparency.google.com/advertiser/AR04097710039484071937?region=US"
+ },
+ {
+  "id": "CR09980551483826896897",
+  "advertiserId": "AR04097710039484071937",
+  "creativeId": "CR09980551483826896897",
+  "advertiserName": "Genentech USA, Inc.",
+  "format": "TEXT",
+  "url": "https://adstransparency.google.com/advertiser/AR04097710039484071937/creative/CR09980551483826896897?region=US",
+  "previewUrl": "https://tpc.googlesyndication.com/archive/simgad/14275963143947073183",
+  "previewStoreKey": null,
+  "firstShownAt": "1784012400",
+  "lastShownAt": "1785951257",
+  "impressions": null,
+  "shownCountries": [
+   "United States"
+  ],
+  "countryStats": [
+   {
+    "code": "US",
+    "name": "United States",
+    "firstShownAt": "2025-09-19T00:00:00.000Z",
+    "lastShownAt": "2026-08-05T00:00:00.000Z",
+    "impressions": {
+     "lowerBound": null,
+     "upperBound": null
+    },
+    "platformStats": []
+   }
+  ],
+  "audienceSelections": [],
+  "variants": [
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/14275963143947073183"
+    ]
+   }
+  ],
+  "originUrl": "https://adstransparency.google.com/advertiser/AR04097710039484071937?region=US"
+ },
+ {
+  "id": "CR13753480004807688193",
+  "advertiserId": "AR04097710039484071937",
+  "creativeId": "CR13753480004807688193",
+  "advertiserName": "Genentech USA, Inc.",
+  "format": "TEXT",
+  "url": "https://adstransparency.google.com/advertiser/AR04097710039484071937/creative/CR13753480004807688193?region=US",
+  "previewUrl": "https://tpc.googlesyndication.com/archive/simgad/10145787730838830335",
+  "previewStoreKey": null,
+  "firstShownAt": "1784012400",
+  "lastShownAt": "1785964637",
+  "impressions": null,
+  "shownCountries": [
+   "United States"
+  ],
+  "countryStats": [
+   {
+    "code": "US",
+    "name": "United States",
+    "firstShownAt": "2025-09-19T00:00:00.000Z",
+    "lastShownAt": "2026-08-05T00:00:00.000Z",
+    "impressions": {
+     "lowerBound": null,
+     "upperBound": null
+    },
+    "platformStats": []
+   }
+  ],
+  "audienceSelections": [],
+  "variants": [
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/10145787730838830335"
+    ]
+   },
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/10145787730838830335"
+    ]
+   }
+  ],
+  "originUrl": "https://adstransparency.google.com/advertiser/AR04097710039484071937?region=US"
+ },
+ {
+  "id": "CR01047614481376477185",
+  "advertiserId": "AR04097710039484071937",
+  "creativeId": "CR01047614481376477185",
+  "advertiserName": "Genentech USA, Inc.",
+  "format": "TEXT",
+  "url": "https://adstransparency.google.com/advertiser/AR04097710039484071937/creative/CR01047614481376477185?region=US",
+  "previewUrl": "https://tpc.googlesyndication.com/archive/simgad/6704525899005192171",
+  "previewStoreKey": null,
+  "firstShownAt": "1784012400",
+  "lastShownAt": "1785926827",
+  "impressions": null,
+  "shownCountries": [
+   "United States"
+  ],
+  "countryStats": [
+   {
+    "code": "US",
+    "name": "United States",
+    "firstShownAt": "2025-09-19T00:00:00.000Z",
+    "lastShownAt": "2026-08-05T00:00:00.000Z",
+    "impressions": {
+     "lowerBound": null,
+     "upperBound": null
+    },
+    "platformStats": []
+   }
+  ],
+  "audienceSelections": [],
+  "variants": [
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/6704525899005192171"
+    ]
+   },
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/6704525899005192171"
+    ]
+   }
+  ],
+  "originUrl": "https://adstransparency.google.com/advertiser/AR04097710039484071937?region=US"
+ },
+ {
+  "id": "CR11964086540692357121",
+  "advertiserId": "AR04097710039484071937",
+  "creativeId": "CR11964086540692357121",
+  "advertiserName": "Genentech USA, Inc.",
+  "format": "TEXT",
+  "url": "https://adstransparency.google.com/advertiser/AR04097710039484071937/creative/CR11964086540692357121?region=US",
+  "previewUrl": "https://tpc.googlesyndication.com/archive/simgad/12147385158001984646",
+  "previewStoreKey": null,
+  "firstShownAt": "1781549501",
+  "lastShownAt": "1785949499",
+  "impressions": null,
+  "shownCountries": [
+   "United States"
+  ],
+  "countryStats": [
+   {
+    "code": "US",
+    "name": "United States",
+    "firstShownAt": "2025-09-19T00:00:00.000Z",
+    "lastShownAt": "2026-08-05T00:00:00.000Z",
+    "impressions": {
+     "lowerBound": null,
+     "upperBound": null
+    },
+    "platformStats": []
+   }
+  ],
+  "audienceSelections": [],
+  "variants": [
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/12147385158001984646"
+    ]
+   },
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/12147385158001984646"
+    ]
+   }
+  ],
+  "originUrl": "https://adstransparency.google.com/advertiser/AR04097710039484071937?region=US"
+ },
+ {
+  "id": "CR15565552270635433985",
+  "advertiserId": "AR04097710039484071937",
+  "creativeId": "CR15565552270635433985",
+  "advertiserName": "Genentech USA, Inc.",
+  "format": "TEXT",
+  "url": "https://adstransparency.google.com/advertiser/AR04097710039484071937/creative/CR15565552270635433985?region=US",
+  "previewUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACF0lEQVRYhe2Vz2vUQBTHP5ZW6XopYiMVlNoiUig4XorgtWBPkkXYgwVPLniWYBlSUME4l72KHjwoFMRAyaJ/g4gn51AUPFTsQWgUwYOKoNVDk2w2O9lf3aDgfi9J3nvzfZ8kLxMYaqi9SKgFhFrYi8W+PhtfBe5lolW0fFA8gFCXgUc52Uto+bgXu5GeAeBhm1we2IAAhLJo/9TGEGqiOAD4OqCaRMa7CSxvHpDAD2C1HLofkqRQW8CxHL9NtJyNLxzfPgrcBg4Aqlapb3QECCxPAK8y4cly6H6KAOaA1zkAp9DybdT8MPAxkz9Tq9R1OmB6BTcNsZXkTMs3wCzwMpV/AUzHzVvWtPEeNRT9MsR2mq603ATOGury1+R4m56Aa4jdMbYQqoRQ4zkApjUt3nlDeILGEN4oh+7nVNPrwBXgZGbZBnAfLe/GAce3DwG3aAzhu64AjBLqNKA71sF3YA4t33dj2x2AUNNAC30HTaDll05FTUMYWJ7F7nd7AXheDt2LUepZj80BngBLAI5vrwPngKfAaq1SD+OiZAgDy1sGtoEqcCSBE2o/MN8HwPnU+WjkWQW2Hd9ebgIILG8GWMsY/I6Ox/toviuhDma8Yq05vj2TAGDeNAahbOO0VtIAUwUBtNNUGsC0axWtnTTAX9M/A1Ay5EqZmkL8443oGjBJYxZGaPzLt4BF4GePzceAb134D/Wf6w9bV34neKwF9wAAAABJRU5ErkJggg==",
+  "previewStoreKey": null,
+  "firstShownAt": "1781549970",
+  "lastShownAt": "1785935097",
+  "impressions": null,
+  "shownCountries": [
+   "United States"
+  ],
+  "countryStats": [
+   {
+    "code": "US",
+    "name": "United States",
+    "firstShownAt": "2025-09-19T00:00:00.000Z",
+    "lastShownAt": "2026-08-05T00:00:00.000Z",
+    "impressions": {
+     "lowerBound": null,
+     "upperBound": null
+    },
+    "platformStats": []
+   }
+  ],
+  "audienceSelections": [],
+  "variants": [
+   {
+    "textContent": "null - null - null",
+    "images": [
+     "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACF0lEQVRYhe2Vz2vUQBTHP5ZW6XopYiMVlNoiUig4XorgtWBPkkXYgwVPLniWYBlSUME4l72KHjwoFMRAyaJ/g4gn51AUPFTsQWgUwYOKoNVDk2w2O9lf3aDgfi9J3nvzfZ8kLxMYaqi9SKgFhFrYi8W+PhtfBe5lolW0fFA8gFCXgUc52Uto+bgXu5GeAeBhm1we2IAAhLJo/9TGEGqiOAD4OqCaRMa7CSxvHpDAD2C1HLofkqRQW8CxHL9NtJyNLxzfPgrcBg4Aqlapb3QECCxPAK8y4cly6H6KAOaA1zkAp9DybdT8MPAxkz9Tq9R1OmB6BTcNsZXkTMs3wCzwMpV/AUzHzVvWtPEeNRT9MsR2mq603ATOGury1+R4m56Aa4jdMbYQqoRQ4zkApjUt3nlDeILGEN4oh+7nVNPrwBXgZGbZBnAfLe/GAce3DwG3aAzhu64AjBLqNKA71sF3YA4t33dj2x2AUNNAC30HTaDll05FTUMYWJ7F7nd7AXheDt2LUepZj80BngBLAI5vrwPngKfAaq1SD+OiZAgDy1sGtoEqcCSBE2o/MN8HwPnU+WjkWQW2Hd9ebgIILG8GWMsY/I6Ox/toviuhDma8Yq05vj2TAGDeNAahbOO0VtIAUwUBtNNUGsC0axWtnTTAX9M/A1Ay5EqZmkL8443oGjBJYxZGaPzLt4BF4GePzceAb134D/Wf6w9bV34neKwF9wAAAABJRU5ErkJggg==",
+     "https://tpc.googlesyndication.com/simgad/4904908766160286319"
+    ]
+   },
+   {
+    "textContent": "",
+    "images": []
+   },
+   {
+    "textContent": "null - null - null",
+    "images": [
+     "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACF0lEQVRYhe2Vz2vUQBTHP5ZW6XopYiMVlNoiUig4XorgtWBPkkXYgwVPLniWYBlSUME4l72KHjwoFMRAyaJ/g4gn51AUPFTsQWgUwYOKoNVDk2w2O9lf3aDgfi9J3nvzfZ8kLxMYaqi9SKgFhFrYi8W+PhtfBe5lolW0fFA8gFCXgUc52Uto+bgXu5GeAeBhm1we2IAAhLJo/9TGEGqiOAD4OqCaRMa7CSxvHpDAD2C1HLofkqRQW8CxHL9NtJyNLxzfPgrcBg4Aqlapb3QECCxPAK8y4cly6H6KAOaA1zkAp9DybdT8MPAxkz9Tq9R1OmB6BTcNsZXkTMs3wCzwMpV/AUzHzVvWtPEeNRT9MsR2mq603ATOGury1+R4m56Aa4jdMbYQqoRQ4zkApjUt3nlDeILGEN4oh+7nVNPrwBXgZGbZBnAfLe/GAce3DwG3aAzhu64AjBLqNKA71sF3YA4t33dj2x2AUNNAC30HTaDll05FTUMYWJ7F7nd7AXheDt2LUepZj80BngBLAI5vrwPngKfAaq1SD+OiZAgDy1sGtoEqcCSBE2o/MN8HwPnU+WjkWQW2Hd9ebgIILG8GWMsY/I6Ox/toviuhDma8Yq05vj2TAGDeNAahbOO0VtIAUwUBtNNUGsC0axWtnTTAX9M/A1Ay5EqZmkL8443oGjBJYxZGaPzLt4BF4GePzceAb134D/Wf6w9bV34neKwF9wAAAABJRU5ErkJggg==",
+     "https://tpc.googlesyndication.com/simgad/4904908766160286319"
+    ]
+   }
+  ],
+  "originUrl": "https://adstransparency.google.com/advertiser/AR04097710039484071937?region=US"
+ },
+ {
+  "id": "CR05349864392643051521",
+  "advertiserId": "AR04097710039484071937",
+  "creativeId": "CR05349864392643051521",
+  "advertiserName": "Genentech USA, Inc.",
+  "format": "TEXT",
+  "url": "https://adstransparency.google.com/advertiser/AR04097710039484071937/creative/CR05349864392643051521?region=US",
+  "previewUrl": "https://tpc.googlesyndication.com/archive/simgad/261178246716154104",
+  "previewStoreKey": null,
+  "firstShownAt": "1781549899",
+  "lastShownAt": "1785950940",
+  "impressions": null,
+  "shownCountries": [
+   "United States"
+  ],
+  "countryStats": [
+   {
+    "code": "US",
+    "name": "United States",
+    "firstShownAt": "2025-09-19T00:00:00.000Z",
+    "lastShownAt": "2026-08-05T00:00:00.000Z",
+    "impressions": {
+     "lowerBound": null,
+     "upperBound": null
+    },
+    "platformStats": []
+   }
+  ],
+  "audienceSelections": [],
+  "variants": [
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/261178246716154104"
+    ]
+   },
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/261178246716154104"
+    ]
+   }
+  ],
+  "originUrl": "https://adstransparency.google.com/advertiser/AR04097710039484071937?region=US"
+ },
+ {
+  "id": "CR14089199937430487041",
+  "advertiserId": "AR04097710039484071937",
+  "creativeId": "CR14089199937430487041",
+  "advertiserName": "Genentech USA, Inc.",
+  "format": "TEXT",
+  "url": "https://adstransparency.google.com/advertiser/AR04097710039484071937/creative/CR14089199937430487041?region=US",
+  "previewUrl": "https://tpc.googlesyndication.com/archive/simgad/11070285448556866264",
+  "previewStoreKey": null,
+  "firstShownAt": "1784012400",
+  "lastShownAt": "1785971063",
+  "impressions": null,
+  "shownCountries": [
+   "United States"
+  ],
+  "countryStats": [
+   {
+    "code": "US",
+    "name": "United States",
+    "firstShownAt": "2025-09-19T00:00:00.000Z",
+    "lastShownAt": "2026-08-05T00:00:00.000Z",
+    "impressions": {
+     "lowerBound": null,
+     "upperBound": null
+    },
+    "platformStats": []
+   }
+  ],
+  "audienceSelections": [],
+  "variants": [
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/11070285448556866264"
+    ]
+   },
+   {
+    "textContent": "",
+    "images": [
+     "https://tpc.googlesyndication.com/archive/simgad/11070285448556866264"
+    ]
+   }
+  ],
+  "originUrl": "https://adstransparency.google.com/advertiser/AR04097710039484071937?region=US"
+ },
+ {
+  "id": "CR11414879932862431233",
+  "advertiserId": "AR04097710039484071937",
+  "creativeId": "CR11414879932862431233",
+  "advertiserName": "Genentech USA, Inc.",
+  "format": "TEXT",
+  "url": "https://adstransparency.google.com/advertiser/AR04097710039484071937/creative/CR11414879932862431233?region=US",
+  "previewUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACF0lEQVRYhe2Vz2vUQBTHP5ZW6XopYiMVlNoiUig4XorgtWBPkkXYgwVPLniWYBlSUME4l72KHjwoFMRAyaJ/g4gn51AUPFTsQWgUwYOKoNVDk2w2O9lf3aDgfi9J3nvzfZ8kLxMYaqi9SKgFhFrYi8W+PhtfBe5lolW0fFA8gFCXgUc52Uto+bgXu5GeAeBhm1we2IAAhLJo/9TGEGqiOAD4OqCaRMa7CSxvHpDAD2C1HLofkqRQW8CxHL9NtJyNLxzfPgrcBg4Aqlapb3QECCxPAK8y4cly6H6KAOaA1zkAp9DybdT8MPAxkz9Tq9R1OmB6BTcNsZXkTMs3wCzwMpV/AUzHzVvWtPEeNRT9MsR2mq603ATOGury1+R4m56Aa4jdMbYQqoRQ4zkApjUt3nlDeILGEN4oh+7nVNPrwBXgZGbZBnAfLe/GAce3DwG3aAzhu64AjBLqNKA71sF3YA4t33dj2x2AUNNAC30HTaDll05FTUMYWJ7F7nd7AXheDt2LUepZj80BngBLAI5vrwPngKfAaq1SD+OiZAgDy1sGtoEqcCSBE2o/MN8HwPnU+WjkWQW2Hd9ebgIILG8GWMsY/I6Ox/toviuhDma8Yq05vj2TAGDeNAahbOO0VtIAUwUBtNNUGsC0axWtnTTAX9M/A1Ay5EqZmkL8443oGjBJYxZGaPzLt4BF4GePzceAb134D/Wf6w9bV34neKwF9wAAAABJRU5ErkJggg==",
+  "previewStoreKey": null,
+  "firstShownAt": "1781549562",
+  "lastShownAt": "1785953669",
+  "impressions": null,
+  "shownCountries": [
+   "United States"
+  ],
+  "countryStats": [
+   {
+    "code": "US",
+    "name": "United States",
+    "firstShownAt": "2025-09-19T00:00:00.000Z",
+    "lastShownAt": "2026-08-05T00:00:00.000Z",
+    "impressions": {
+     "lowerBound": null,
+     "upperBound": null
+    },
+    "platformStats": []
+   }
+  ],
+  "audienceSelections": [],
+  "variants": [
+   {
+    "textContent": "null - null - null",
+    "images": [
+     "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACF0lEQVRYhe2Vz2vUQBTHP5ZW6XopYiMVlNoiUig4XorgtWBPkkXYgwVPLniWYBlSUME4l72KHjwoFMRAyaJ/g4gn51AUPFTsQWgUwYOKoNVDk2w2O9lf3aDgfi9J3nvzfZ8kLxMYaqi9SKgFhFrYi8W+PhtfBe5lolW0fFA8gFCXgUc52Uto+bgXu5GeAeBhm1we2IAAhLJo/9TGEGqiOAD4OqCaRMa7CSxvHpDAD2C1HLofkqRQW8CxHL9NtJyNLxzfPgrcBg4Aqlapb3QECCxPAK8y4cly6H6KAOaA1zkAp9DybdT8MPAxkz9Tq9R1OmB6BTcNsZXkTMs3wCzwMpV/AUzHzVvWtPEeNRT9MsR2mq603ATOGury1+R4m56Aa4jdMbYQqoRQ4zkApjUt3nlDeILGEN4oh+7nVNPrwBXgZGbZBnAfLe/GAce3DwG3aAzhu64AjBLqNKA71sF3YA4t33dj2x2AUNNAC30HTaDll05FTUMYWJ7F7nd7AXheDt2LUepZj80BngBLAI5vrwPngKfAaq1SD+OiZAgDy1sGtoEqcCSBE2o/MN8HwPnU+WjkWQW2Hd9ebgIILG8GWMsY/I6Ox/toviuhDma8Yq05vj2TAGDeNAahbOO0VtIAUwUBtNNUGsC0axWtnTTAX9M/A1Ay5EqZmkL8443oGjBJYxZGaPzLt4BF4GePzceAb134D/Wf6w9bV34neKwF9wAAAABJRU5ErkJggg==",
+     "https://tpc.googlesyndication.com/simgad/4904908766160286319"
+    ]
+   }
+  ],
+  "originUrl": "https://adstransparency.google.com/advertiser/AR04097710039484071937?region=US"
+ }
+]
