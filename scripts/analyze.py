@@ -172,10 +172,18 @@ def _tier_bundle(rows, tier_field):
     }
 
 
-def analyze_all(rows: list, codebook: dict = None) -> dict:
+def analyze_all(rows: list, codebook: dict = None, out_dir: Path = None) -> dict:
     """Returns the same JSON-serializable dict written to
-    out/analysis.json. codebook is optional and only used to attach a
-    theme-id -> label lookup for convenience."""
+    <out_dir>/analysis.json. codebook is optional and only used to
+    attach a theme-id -> label lookup for convenience.
+
+    out_dir defaults to "out" for standalone/CLI use, matching every
+    other phase's convention. Callers that manage their own out_dir
+    (export.py's build_all) must pass it explicitly -- this used to
+    hardcode "out/analysis.json" regardless of what directory the
+    caller was actually using, silently leaking a stray file into
+    whatever the current working directory happened to be instead of
+    the real output location."""
     result = {"strategy": _tier_bundle(rows, STRATEGY_FIELD),
               "topic": _tier_bundle(rows, TOPIC_FIELD)}
 
@@ -184,8 +192,9 @@ def analyze_all(rows: list, codebook: dict = None) -> dict:
                  codebook.get("strategy_themes", []) + codebook.get("topic_themes", [])}
         result["labels"] = labels
 
-    out_path = Path("out/analysis.json")
-    out_path.parent.mkdir(exist_ok=True)
+    out_dir = Path(out_dir) if out_dir else Path("out")
+    out_path = out_dir / "analysis.json"
+    out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(json.dumps(result, indent=1))
     return result
 

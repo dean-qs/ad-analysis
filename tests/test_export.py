@@ -267,9 +267,38 @@ def test_build_all_writes_all_five_paths(monkeypatch, tmp_path):
     paths = export.build_all(out_dir)
     names = {p.name for p in paths}
     assert names == {"ads.xlsx", "codebook.json", "codebook.md",
-                     "messaging_memo.md", "explorer.html"}
+                     "messaging_memo.md", "explorer.html", "analysis.json"}
     for p in paths:
         assert p.exists()
+
+
+def test_build_all_writes_analysis_json_into_out_dir_not_cwd(monkeypatch, tmp_path):
+    """Caught live: analyze_all() used to hardcode Path("out/analysis.json")
+    relative to the current working directory, ignoring build_all's own
+    out_dir entirely. It silently leaked a stray file into whatever cwd
+    happened to be (the real project directory, every time this test
+    suite ran) instead of the out_dir actually being built. Run from a
+    cwd that is NOT out_dir's parent, so a regression reappears here
+    instead of silently passing again."""
+    def fake_memo_call(system, user):
+        usage = type("U", (), {"prompt_tokens": 10, "completion_tokens": 10})()
+        return "Body text.", usage
+    monkeypatch.setattr(export, "memo_call", fake_memo_call)
+
+    unrelated_cwd = tmp_path / "somewhere_else"
+    unrelated_cwd.mkdir()
+    monkeypatch.chdir(unrelated_cwd)
+
+    out_dir = tmp_path / "real_output"
+    out_dir.mkdir()
+    rows = [_row("c1", strategy_themes=["S01"])]
+    (out_dir / "ads_coded.json").write_text(json.dumps(rows))
+    (out_dir / "codebook.json").write_text(json.dumps(_codebook()))
+
+    export.build_all(out_dir)
+
+    assert (out_dir / "analysis.json").exists()
+    assert not (unrelated_cwd / "out").exists()
 
 
 def test_build_all_warns_if_limitations_missing(monkeypatch, tmp_path, capsys):

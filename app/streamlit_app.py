@@ -209,6 +209,27 @@ with tabs[3]:
             cb_path.write_text(json.dumps(cb, indent=1))
             st.success("Saved")
 
+        st.divider()
+        st.markdown("**Code the corpus**")
+        norm_path = OUT / "ads_normalized.json"
+        if not norm_path.exists():
+            st.warning("Collect and normalize ads first.")
+        else:
+            from codebook import estimate_apply
+            rows_for_apply = json.loads(norm_path.read_text())
+            est = estimate_apply(rows_for_apply, cb)
+            cost_label = (f"${est['cost_worst_case']:.4f}"
+                         if abs(est["cost_worst_case"] - est["cost_if_cached_after_first_call"]) < 1e-9
+                         else f"${est['cost_if_cached_after_first_call']:.4f} - ${est['cost_worst_case']:.4f}")
+            st.caption(f"{est['n_eligible']} ad(s) to classify, {est['n_skipped_no_text']} "
+                       f"skipped (no text). Estimated cost: {cost_label} "
+                       f"(low end assumes the system prompt caches after the first call).")
+            if st.button("Run coding", type="primary", disabled=not est["n_eligible"]):
+                from codebook import apply
+                with st.spinner(f"Classifying {est['n_eligible']} ad(s) against the codebook"):
+                    coded = apply(rows_for_apply, cb)
+                st.success(f"Coded {len(coded)} ad(s), wrote out/ads_coded.json")
+
 # ---------------------------------------------------------------- analyze
 with tabs[4]:
     st.subheader("Brand by theme")

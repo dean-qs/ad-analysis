@@ -164,6 +164,23 @@ def test_analyze_all_writes_json_and_covers_both_tiers(monkeypatch, tmp_path):
     assert on_disk == result
 
 
+def test_analyze_all_respects_explicit_out_dir(monkeypatch, tmp_path):
+    """Caught live: analyze_all used to hardcode Path("out/analysis.json")
+    regardless of any out_dir a caller (export.build_all) manages,
+    silently writing into cwd instead. Run from an unrelated cwd so a
+    regression can't hide behind cwd happening to equal out_dir."""
+    unrelated_cwd = tmp_path / "somewhere_else"
+    unrelated_cwd.mkdir()
+    monkeypatch.chdir(unrelated_cwd)
+
+    real_out = tmp_path / "real_output"
+    rows = [_row("A", "meta", ["S01"])]
+    az.analyze_all(rows, out_dir=real_out)
+
+    assert (real_out / "analysis.json").exists()
+    assert not (unrelated_cwd / "out").exists()
+
+
 def test_analyze_all_attaches_labels_from_codebook(monkeypatch, tmp_path):
     monkeypatch.chdir(tmp_path)
     rows = [_row("A", "meta", ["S01"])]

@@ -439,7 +439,7 @@ def build_all(out_dir: Path) -> list:
         print("! WARNING: no limitations text found in SKILL.md -- "
               "deliverables will ship without the required disclosures")
 
-    analysis = analyze.analyze_all(rows, codebook)
+    analysis = analyze.analyze_all(rows, codebook, out_dir=out_dir)
 
     paths = []
 
@@ -462,6 +462,8 @@ def build_all(out_dir: Path) -> list:
     explorer_path.write_text(explorer_html(rows, analysis, codebook, limitations))
     paths.append(explorer_path)
 
+    paths.append(out_dir / "analysis.json")   # written by analyze_all above
+
     return paths
 
 
@@ -473,7 +475,7 @@ def main():
     out_dir = Path(a.out)
     rows = json.loads((out_dir / "ads_coded.json").read_text())
     codebook = json.loads((out_dir / "codebook.json").read_text())
-    analysis = analyze.analyze_all(rows, codebook)
+    analysis = analyze.analyze_all(rows, codebook, out_dir=out_dir)
     est = estimate_memo(analysis, codebook)
     print(f"messaging_memo.md estimate: ~${est['cost']:.4f} ({MEMO_MODEL})")
     if input("\nProceed? [y/N] ").strip().lower() != "y":
