@@ -24,7 +24,7 @@ def require_quadstrat_email(st):
     if st.session_state.get("_gate_email_ok"):
         return
 
-    st.title("Ad transparency messaging analysis")
+    st.title("Owned advertising analysis")
     st.caption("Quadrant Strategies")
     st.info("Enter your email to access this tool.")
     email = st.text_input("Work email", placeholder="your@email.com")
