@@ -1,4 +1,4 @@
-"""Operator console for the ad transparency pipeline.
+"""Operator console for the advertising analysis pipeline.
 
 Run locally. The container network allowlist blocks ad creative CDNs,
 so transcription only completes on a machine without that restriction.
@@ -20,7 +20,7 @@ sys.path.insert(0, str(ROOT / "scripts"))
 OUT = ROOT / "out"
 OUT.mkdir(exist_ok=True)
 
-st.set_page_config(page_title="Ad transparency analysis", layout="wide")
+st.set_page_config(page_title="Owned advertising analysis", layout="wide")
 
 from access_gate import require_quadstrat_email
 require_quadstrat_email(st)
@@ -32,7 +32,7 @@ def state(k, default):
     return st.session_state[k]
 
 
-st.title("Ad transparency messaging analysis")
+st.title("Owned advertising messaging analysis")
 
 with st.sidebar:
     st.header("Run configuration")
